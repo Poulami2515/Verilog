@@ -1,0 +1,9 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="NAND.v" />
+    <File Include="NAND_tb.v" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>NAND.v</HardwareStartPath>
+  </PropertyGroup>
+</Project>
