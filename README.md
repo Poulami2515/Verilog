@@ -14,4 +14,5 @@ generate statement : generate replication of hardware, provided in generate stat
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; input, output, inout ports, and specify blocks are prohibitted<br>
 begin-end block : sequential execution of statements<br>
 fork-join : parallel execution of statements<br>
-
+<br>
+<img width="865" alt="image" src="https://github.com/Poulami2515/Verilog/assets/91011865/e160d5fa-ee05-42a1-811f-bc23119961d6">
