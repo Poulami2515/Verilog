@@ -8,3 +8,7 @@ level triggering : circuit is activated via voltage level <br>
 
 ### TRUTH TABLE OF D FLIP FLOP:
 ![image](https://github.com/Poulami2515/Verilog/assets/91011865/0e80706d-dfcc-413c-9c3a-2cf6c915b8a4)
+<br><br>
+generate statement : generate replication of hardware, provided in generate statement<br>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; declaration of parameters, local parameters, input, output, inout ports, and specify blocks are prohibitted
+
