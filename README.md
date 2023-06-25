@@ -11,5 +11,7 @@ level triggering : circuit is activated via voltage level <br>
 <br><br>
 generate statement : generate replication of hardware, provided in generate statement<br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; declaration of parameters, local parameters,<br>
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; input, output, inout ports, and specify blocks are prohibitted
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; input, output, inout ports, and specify blocks are prohibitted<br>
+begin-end block : sequential execution of statements<br>
+fork-join : parallel execution of statements<br>
 
